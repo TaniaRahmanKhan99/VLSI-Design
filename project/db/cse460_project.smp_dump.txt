@@ -1,0 +1,8 @@
+
+State Machine - |cse460_project|bc
+Name bc.v3 bc.v2 bc.v1 bc.v0 bc.v4 
+bc.v0 0 0 0 0 0 
+bc.v1 0 0 1 1 0 
+bc.v2 0 1 0 1 0 
+bc.v3 1 0 0 1 0 
+bc.v4 0 0 0 1 1 
